@@ -1,0 +1,11 @@
+C:\Users\bgibi\source\repos\ThePrimeDirective\bin\Debug\netcoreapp3.0\ThePrimeDirective.exe
+C:\Users\bgibi\source\repos\ThePrimeDirective\bin\Debug\netcoreapp3.0\ThePrimeDirective.deps.json
+C:\Users\bgibi\source\repos\ThePrimeDirective\bin\Debug\netcoreapp3.0\ThePrimeDirective.runtimeconfig.json
+C:\Users\bgibi\source\repos\ThePrimeDirective\bin\Debug\netcoreapp3.0\ThePrimeDirective.runtimeconfig.dev.json
+C:\Users\bgibi\source\repos\ThePrimeDirective\bin\Debug\netcoreapp3.0\ThePrimeDirective.dll
+C:\Users\bgibi\source\repos\ThePrimeDirective\bin\Debug\netcoreapp3.0\ThePrimeDirective.pdb
+C:\Users\bgibi\source\repos\ThePrimeDirective\obj\Debug\netcoreapp3.0\ThePrimeDirective.csprojAssemblyReference.cache
+C:\Users\bgibi\source\repos\ThePrimeDirective\obj\Debug\netcoreapp3.0\ThePrimeDirective.AssemblyInfoInputs.cache
+C:\Users\bgibi\source\repos\ThePrimeDirective\obj\Debug\netcoreapp3.0\ThePrimeDirective.AssemblyInfo.cs
+C:\Users\bgibi\source\repos\ThePrimeDirective\obj\Debug\netcoreapp3.0\ThePrimeDirective.dll
+C:\Users\bgibi\source\repos\ThePrimeDirective\obj\Debug\netcoreapp3.0\ThePrimeDirective.pdb
