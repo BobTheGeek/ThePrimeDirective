@@ -5,7 +5,7 @@ namespace ThePrimeDirective
 {
     class Program
     {
-        static List<int> listOfPrimes = new List<int>();
+        static int numberOfPrimes = 0;
 
         static void Main(string[] args)
         {
@@ -17,10 +17,10 @@ namespace ThePrimeDirective
 
             while (!makeItStop) {
                 if (isPrime(n))
-                    listOfPrimes.Add(n);
+                    numberOfPrimes++;
 
                 // ==== test if our array length has met our target
-                if (listOfPrimes.Count == target)
+                if (numberOfPrimes == target)
                     makeItStop = true;
                 else
                     n++;
@@ -31,7 +31,7 @@ namespace ThePrimeDirective
         }
 
         // ==== Using "Simple methods" algorithm from https://en.wikipedia.org/wiki/Primality_test
-        public static Boolean isPrime(Int64 n)
+        public static Boolean isPrime(int n)
         {
             // ==== Not interested if the number is 0, 1, or a negative.
             if (n <= 3)
