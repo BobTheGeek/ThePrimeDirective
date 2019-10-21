@@ -19,7 +19,7 @@ namespace ThePrimeDirective
                 if (isPrime(n))
                     numberOfPrimes++;
 
-                // ==== test if our array length has met our target
+                // ==== test if the number of found primes has met our target
                 if (numberOfPrimes == target)
                     makeItStop = true;
                 else
